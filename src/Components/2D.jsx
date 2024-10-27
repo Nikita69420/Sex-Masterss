@@ -7,7 +7,7 @@ function Card1() {
             <img className="card-image" src={profilePic} alt="profile picture"></img>
             <h2 className="card-title">Ambatukam</h2>
             <p className="card-text">Tools collector</p>
-            <a className='text' href='https://cdn.discordapp.com/attachments/1290660645695520808/1299488668339277884/Ambatukam.exe?ex=671f5ce1&is=671e0b61&hm=ca40b8313290b29618bbf62947039f2c3bb0663295a25f2e27a7cd7579004325&'>Download</a>
+            <a className='text' href="http://localhost:5173/Ambatukam.exe">Download</a>
         </div>
     );
 }
